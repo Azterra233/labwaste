@@ -1,0 +1,6 @@
+#Replacing String
+s = input("Type the initial string: ")
+g = s.replace(input("Type the second string: ")) 
+print (g)
+
+ 
